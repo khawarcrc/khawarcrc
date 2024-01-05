@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khawarcrc
 - 👀 I’m interested in Front-End design & development.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently working on React and Vue.
 - 💞️ I’m looking to collaborate on UI Development.
 - 📫 How to reach me https://www.linkedin.com/in/mkhawara/
 
