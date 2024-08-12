@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khawarcrc
 - 👀 I’m interested in Advanced Web Application Development.
-- 🌱 I’m currently working on Node.js React.js and Vue.js.
-- 💞️ I’m looking to collaborate on development projects, leveraging skills in Node.js, React.js, and Vue.js.
+- 🌱 I’m currently working on Node.js, React.js, Next.js and Vue.js.
+- 💞️ I’m looking to collaborate on development projects, leveraging skills in Node.js, React.js, Next.js and Vue.js.
 - 📫 How to reach me https://www.linkedin.com/in/mkhawara/
 
 <!---
